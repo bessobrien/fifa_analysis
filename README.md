@@ -1,0 +1,1 @@
+# Personal project in progress to revisit a FIFA analysis, comparing FIFA video game player ratings and the connection they have to actual FIFA match results.
